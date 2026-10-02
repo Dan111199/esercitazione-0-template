@@ -29,7 +29,7 @@ Quali file ho incluso nel commit e perché: osservazioni.md e hello.c perche' so
 
 Come ho verificato che la versione provata sia presente su GitHub: andando sulla cronologia delle modifiche ho potuto vedere cio' che era stato cambiato. I dati su terminale e su github corrispondono
 
-Che cosa ho osservato prima e dopo `git pull`, e perché non serve un nuovo clone:
+Che cosa ho osservato prima e dopo `git pull`, e perché non serve un nuovo clone: prima di git pull il file su computer e' rimasta l'ultima versione salvata localmente. Dopo il pull, il file e' cambiato, aggiungendo le modifiche effettuate sul sito. Non serve un altro clone perche' il collegamento con il server era ga' stato effettuato.
 
 ## Step 2 — Eco: prima prova
 

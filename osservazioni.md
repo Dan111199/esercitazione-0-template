@@ -25,9 +25,9 @@ Esito dopo la modifica e spiegazione della correzione: "Hello, computational phy
 
 ## Step 1 — Git
 
-Quali file ho incluso nel commit e perché:
+Quali file ho incluso nel commit e perché: osservazioni.md e hello.c perche' sono i file utili che ho modificato e che ho bisogno che siano aggiornati
 
-Come ho verificato che la versione provata sia presente su GitHub:
+Come ho verificato che la versione provata sia presente su GitHub: andando sulla cronologia delle modifiche ho potuto vedere cio' che era stato cambiato. I dati su terminale e su github corrispondono
 
 Che cosa ho osservato prima e dopo `git pull`, e perché non serve un nuovo clone:
 

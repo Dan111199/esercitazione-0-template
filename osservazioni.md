@@ -2,26 +2,26 @@
 
 Gruppo:
 
-Componenti (nome, cognome e username GitHub di entrambi):
+Componenti (nome, cognome e username GitHub di entrambi): Daniele Palmaccio Dan111199, Alessio Cosmin dragomir dragomir-ac
 
-URL del repository condiviso:
+URL del repository condiviso:https://github.com/Dan111199/esercitazione-0-template.git
 
-Chi ha usato la tastiera nello step 1 e nello step 2:
+Chi ha usato la tastiera nello step 1 e nello step 2: entrambi
 
 Compilate insieme le osservazioni e discutete le risposte: entrambi dovete
 saper spiegare le prove svolte.
 
 ## Step 1 — Hello World: compilazione ed esecuzione
 
-Comando di compilazione:
+Comando di compilazione: gcc -std=c17 -Wall -Wextra -Wpedantic -Werror hello.c -o hello
 
-Comando di esecuzione e risultato osservato:
+Comando di esecuzione e risultato osservato: ./hello, e' andato solo a capo senza stampare niente su terminale
 
-Che cosa ho capito su sorgente ed eseguibile:
+Che cosa ho capito su sorgente ed eseguibile: modificando la sorgente ma non ricompiando il file l'eseguibile rimane alla versione precedente.
 
-Output richiesto e comportamento del programma prima della modifica:
+Output richiesto e comportamento del programma prima della modifica: nulla perche' il programma aveva soltanto "return 0" nel main, pero' compilava lo stesso perche' all'effetivo non c'erano errori nel codice.
 
-Esito dopo la modifica e spiegazione della correzione:
+Esito dopo la modifica e spiegazione della correzione: "Hello, computational physics!" e a capo. Nel main e' stato scritto un comando che stampava una frase, percio' dopo averlo compilato e' uscito scritto nel terminale.
 
 ## Step 1 — Git
 
